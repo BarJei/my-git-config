@@ -1,4 +1,3 @@
-[gui]
 [alias]
 	co = checkout
 	b = branch
@@ -16,5 +15,5 @@
 	rb = rebase
 
 [user]
-	name = Jeirene Richmond Loba Barbo
-	email = j.barbo@samsung.com
+	name = Jeirene Richmond Barbo
+	email = barjei29@gmail.com
