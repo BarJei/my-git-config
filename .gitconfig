@@ -1,3 +1,4 @@
+[gui]
 [alias]
 	co = checkout
 	b = branch
@@ -12,4 +13,8 @@
 	ps = push
 	pl = pull
 	fo = fetch origin
+	rb = rebase
 
+[user]
+	name = Jeirene Richmond Loba Barbo
+	email = j.barbo@samsung.com
