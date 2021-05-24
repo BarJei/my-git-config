@@ -13,7 +13,3 @@
 	pl = pull
 	fo = fetch origin
 	rb = rebase
-
-[user]
-	name = Jeirene Richmond Barbo
-	email = barjei29@gmail.com
